@@ -1,0 +1,33 @@
+body{
+	background: #FFDAB9;
+	font:18px arial;
+}
+header{
+	overflow: hidden;
+}
+header nav {
+	float: right;
+	width: 312px;
+}
+.cont input{
+	width: 540px;
+	height: 36px;
+}
+.cont button{
+	width: 100px;
+	height: 37px;
+}
+.cont img{
+	width: 270px;
+	height: 129px;
+	padding: 10px;
+}
+.cont {
+	text-align: center;
+}
+footer p{
+	text-align: center;
+}
+footer {
+	padding-top: 100px;
+}
